@@ -1,0 +1,14 @@
+C:\Users\CHRIS\Desktop\Desafío3-zoologico\zoologico-virtual\zoologico-virtual\bin\Debug\net8.0\zoologico-virtual.exe
+C:\Users\CHRIS\Desktop\Desafío3-zoologico\zoologico-virtual\zoologico-virtual\bin\Debug\net8.0\zoologico-virtual.deps.json
+C:\Users\CHRIS\Desktop\Desafío3-zoologico\zoologico-virtual\zoologico-virtual\bin\Debug\net8.0\zoologico-virtual.runtimeconfig.json
+C:\Users\CHRIS\Desktop\Desafío3-zoologico\zoologico-virtual\zoologico-virtual\bin\Debug\net8.0\zoologico-virtual.dll
+C:\Users\CHRIS\Desktop\Desafío3-zoologico\zoologico-virtual\zoologico-virtual\bin\Debug\net8.0\zoologico-virtual.pdb
+C:\Users\CHRIS\Desktop\Desafío3-zoologico\zoologico-virtual\zoologico-virtual\obj\Debug\net8.0\zoologico-virtual.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CHRIS\Desktop\Desafío3-zoologico\zoologico-virtual\zoologico-virtual\obj\Debug\net8.0\zoologico-virtual.AssemblyInfoInputs.cache
+C:\Users\CHRIS\Desktop\Desafío3-zoologico\zoologico-virtual\zoologico-virtual\obj\Debug\net8.0\zoologico-virtual.AssemblyInfo.cs
+C:\Users\CHRIS\Desktop\Desafío3-zoologico\zoologico-virtual\zoologico-virtual\obj\Debug\net8.0\zoologico-virtual.csproj.CoreCompileInputs.cache
+C:\Users\CHRIS\Desktop\Desafío3-zoologico\zoologico-virtual\zoologico-virtual\obj\Debug\net8.0\zoologico-virtual.dll
+C:\Users\CHRIS\Desktop\Desafío3-zoologico\zoologico-virtual\zoologico-virtual\obj\Debug\net8.0\refint\zoologico-virtual.dll
+C:\Users\CHRIS\Desktop\Desafío3-zoologico\zoologico-virtual\zoologico-virtual\obj\Debug\net8.0\zoologico-virtual.pdb
+C:\Users\CHRIS\Desktop\Desafío3-zoologico\zoologico-virtual\zoologico-virtual\obj\Debug\net8.0\zoologico-virtual.genruntimeconfig.cache
+C:\Users\CHRIS\Desktop\Desafío3-zoologico\zoologico-virtual\zoologico-virtual\obj\Debug\net8.0\ref\zoologico-virtual.dll
